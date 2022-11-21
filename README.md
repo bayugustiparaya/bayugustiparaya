@@ -9,11 +9,12 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 - 📫 E-mail : [paraya.developer@gmail.com](mailto:paraya.developer@gmail.com)
 - 📞 WhatsApp : [+6281271077073](https://wa.me/6281271077073)
 
----
+
 
 # Github Status ⚡
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayugustiparaya&show_icons=true&theme=onedark&include_all_commits=true) 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayugustiparaya&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayugustiparaya&theme=onedark&langs_count=7&layout=compact)
