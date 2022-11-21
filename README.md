@@ -6,18 +6,20 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on with anyone
-- 📫 E-mail : [paraya.developer@gmail.com](mailto:paraya.developer@gmail.com)
-- 📞 WhatsApp : [+6281271077073](https://wa.me/6281271077073)
+- 📫 E-mail : <a href="mailto:paraya.developer@gmail.com" target="_blank">paraya.developer@gmail.com</a>
+- 📞 WhatsApp : <a href="https://wa.me/6281271077073" target="_blank">+6281271077073</a>
 
 
 
 # Github Status ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayugustiparaya&show_icons=true&theme=onedark&include_all_commits=true) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayugustiparaya&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/bayugustiparaya)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayugustiparaya&theme=onedark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayugustiparaya&theme=onedark)](https://github.com/bayugustiparaya)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayugustiparaya&theme=onedark&langs_count=7&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayugustiparaya&theme=onedark&langs_count=7&layout=compact)](https://github.com/bayugustiparaya)
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bayugustiparaya&theme=onedark)](https://github.com/bayugustiparaya)
   
 ---
 
