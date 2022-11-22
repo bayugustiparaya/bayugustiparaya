@@ -31,6 +31,8 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 
 <details open="">
 <summary><b>💻 Coding Stats</b></summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Bye's github activity graph](https://activity-graph.herokuapp.com/graph?username=bayugustiparaya&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/bayugustiparaya/bayugustiparaya)
 
