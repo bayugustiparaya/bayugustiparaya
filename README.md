@@ -20,6 +20,8 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayugustiparaya&theme=onedark&langs_count=7&layout=compact)](https://github.com/bayugustiparaya)
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@bayugustiparaya&theme=onedark)](https://github.com/bayugustiparaya)
+
+[![Bye's github activity graph](https://activity-graph.herokuapp.com/graph?username=bayugustiparaya&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/bayugustiparaya/bayugustiparaya)
   
 ---
 
