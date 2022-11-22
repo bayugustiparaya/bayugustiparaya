@@ -1,4 +1,4 @@
-# Hello there! 👋⚡
+<h1 align="center">Hello there! <img src="https://github.com/bayugustiparaya/bayugustiparaya/blob/main/wave.gif" height="55px" width="55px"> I'm Bayu Gusti Paraya</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1500&vCenter=true&width=800&height=40&lines=Hello+there!+%F0%9F%91%8B%E2%9A%A1.++My+name+is+Bayu+Gusti+Paraya.;I+am+a+Junior+Web+Developer+living+in+Padang.+Indonesia.;Laravel.+Java.+RestAPI.+MySQL.+Server+Management.+OOP.+Git.+Bootstrap.;If+you're+around+Padang%2C+drop+us+an+email+and+let's+chat+over+coffee!+%E2%98%95%F0%9F%91%8B%E2%9A%A1+)](https://git.io/typing-svg)
 
@@ -20,6 +20,7 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 
 <details open="">
 <summary><b>📈 GitHub Stats</b></summary>
+<br>
 <p align="center">
 <a href="https://github.com/bayugustiparaya"><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=bayugustiparaya&theme=onedark"/></a>
 <a href="https://github.com/bayugustiparaya"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bayugustiparaya&show_icons=true&theme=onedark&include_all_commits=true" width=55%/></a>
@@ -27,10 +28,11 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 </p>
 </details>
 
-<br>
+<br><br>
 
 <details open="">
-<summary><b>💻 Coding Stats</b></summary>
+<summary><b>💻 Coding Stats</b></summary><br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -41,3 +43,4 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 ---
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bayugustiparaya.bayugustiparaya)](https://github.com/bayugustiparaya) [![Followers](https://img.shields.io/github/followers/bayugustiparaya.svg?style=social&label=Follow)](https://github.com/bayugustiparaya?tab=followers)
+
