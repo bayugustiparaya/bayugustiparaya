@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://github.com/bayugustiparaya/bayugustiparaya/blob/main/wave.gif" height="55px" width="55px"> I'm Bayu Gusti Paraya</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1500&vCenter=true&width=800&height=40&lines=Hello+there!+%F0%9F%91%8B%E2%9A%A1.++My+name+is+Bayu+Gusti+Paraya.;I+am+a+Junior+Web+Developer+living+in+Padang.+Indonesia.;Laravel.+Java.+RestAPI.+MySQL.+Server+Management.+OOP.+Git.+Bootstrap.;If+you're+around+Padang%2C+drop+us+an+email+and+let's+chat+over+coffee!+%E2%98%95%F0%9F%91%8B%E2%9A%A1+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=2000&vCenter=true&width=800&height=40&lines=Hello+there!+%F0%9F%91%8B%E2%9A%A1.++My+name+is+Bayu+Gusti+Paraya.;I+am+a+Junior+Web+Developer+living+in+Padang.+Indonesia.;Laravel.+Java.+RestAPI.+MySQL.+Server+Management.+OOP.+Git.+Bootstrap.;If+you're+around+Padang%2C+drop+us+an+email+and+let's+chat+over+coffee!+%E2%98%95%F0%9F%91%8B%E2%9A%A1+)](https://github.com/bayugustiparaya)
 
 <details>
 <summary><b>👈👀🙌 <i>click me!!</i></b></summary>
