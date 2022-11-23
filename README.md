@@ -35,13 +35,6 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 
 
 <!--START_SECTION:waka-->
-
-```text
-HTML         8 hrs 6 mins    ████████████████▓░░░░░░░░   66.74 %
-CSS          2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Other        54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-```
-
 <!--END_SECTION:waka-->
 
 
