@@ -43,7 +43,7 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 104.7 kB Used in GitHub's Storage 
+> 📦 104.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,15 +80,13 @@ Sunday       10 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-PHP                      4 mins              ███████████░░░░░░░░░░░░░░   46.08% 
-Blade Template           2 mins              ███████░░░░░░░░░░░░░░░░░░   29.96% 
-JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.96%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +103,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 10:07:58 UTC
+ Last Updated on 08/01/2023 10:07:39 UTC
 <!--END_SECTION:waka-->
 
 
