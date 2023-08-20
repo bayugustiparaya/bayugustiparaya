@@ -11,7 +11,7 @@ I am a Junior Web Developer living in Padang, West Sumatra :indonesia: . I am cu
  
 - 👋 I’m Bayu Gusti Paraya from Indonesia 
 - 👀 I’m interested in Web Developer
-- 🌱 I'm a Laravel Framework Advance
+- 🌱 Laravel Framework Advance
 - 💞️ I’m looking to collaborate on with anyone
 - 📫 E-mail : <a href="mailto:paraya.developer@gmail.com" target="_blank">paraya.developer@gmail.com</a>
 - 📞 WhatsApp : <a href="https://wa.me/6281271077073" target="_blank">+6281271077073</a>
